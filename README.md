@@ -54,7 +54,7 @@ Paste the prompt into **ChatGPT (GPT-4o)**, **Gemini Advanced**, or **Claude 3.5
 ### Step 4: Analyze
 Type `Start Analysis` or ask a specific question (e.g., "What is the inventory risk?").
 
-## 📝 The Prompt Code (v2.3 Compact Edition)
+## 📝 The Prompt Code
 
 <details>
 <summary>👉 <b>Click here to expand the v2.3 Prompt Code</b></summary>
@@ -171,7 +171,7 @@ Type `Start Analysis` or ask a specific question (e.g., "What is the inventory r
 ### 第四步：開始分析
 輸入 `開始分析` 或詢問特定問題（例如：「這家公司的庫存有風險嗎？」）。
 
-## 📝 核心提示詞 (v2.3 緊湊版)
+## 📝 核心提示詞
 
 *無論您使用中文或英文，**請直接複製這段 XML 指令**，AI 會自動根據您的語言輸出中文報告。*
 
